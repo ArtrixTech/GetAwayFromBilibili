@@ -6,5 +6,5 @@ document.getElementById('closeTabsButton').addEventListener('click', () => {
         }
       });
     });
-    window.close();  // 关闭插件弹出窗口
+    window.close();
   });
